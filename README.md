@@ -4,7 +4,7 @@
 Ce projet est une application de gestion de comptes bancaires réalisée avec Spring Boot et Angular. Il permet aux utilisateurs de gérer leurs comptes, effectuer des transactions et suivre leurs historiques de transactions.
 
 ## Installation
-1. Clonez le dépôt du projet : `git clone https://github.com/abdelhamid-labihi/JEE-Spring-Angular-Digital-Banking.git`
+1. Clonez le dépôt du projet : `git clone https://github.com/abdelhamid-labihi/E-banking-app.git`
 2. Accédez au dossier backend : `cd backend`
 3. Importez le projet backend dans votre IDE préféré (par exemple, Eclipse ou IntelliJ)
 4. Exécutez le projet backend en cliquant sur le bouton "Run" de votre IDE
